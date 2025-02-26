@@ -1,6 +1,5 @@
 ### 어서오세요! 😄
 
-[Blog](https://stoic-park@vercel.app)
 [Project](https://bit.ly/3Z1FyUd)
 
 <!--
