@@ -1,6 +1,5 @@
 ### 어서오세요! 😄
 
-[Project](https://bit.ly/3Z1FyUd)
 
 <!--
 **stoic-park/stoic-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
