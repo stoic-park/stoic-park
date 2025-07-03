@@ -14,10 +14,7 @@
 
 ## Activities
 
-- 항해 플러스 프론트엔드 5th *[@hanghae](https://hanghae99.spartacodingclub.kr/plus/fe)* <sub><sup>(2025.03 ~ 2025.06)</sup></sub> <a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
-</a>
-
+- 항해 플러스 프론트엔드 5th *[@hanghae](https://hanghae99.spartacodingclub.kr/plus/fe)* <sub><sup>(2025.03 ~ 2025.06)</sup></sub> 
 - 코드스테이츠 Advance Software Engineering, Immersive program 17th *[@CodeStates](https://www.codestates.com/)* <sub><sup>(2019.09 ~ 2020.04)</sup></sub>
 - 육군 중위 전역  <sub><sup>(2013.03 ~ 2015.06)</sup></sub>
 
@@ -36,4 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
 
